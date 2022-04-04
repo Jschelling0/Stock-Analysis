@@ -14,7 +14,7 @@ The purpose of this project is to take the current code that has been written to
 As state in the purpose of the project, this code was refactored in order to make the code more efficient, use less memory, and potentially quicker. ![As can be seen in the pop-message for the original 2017 code](VBA_Challenge_2017_originalcode.png), the overall run time of the code to execute was about .324 seconds. When comparing this to the ![2017 refactored code](VBA_Challenge_2017.png), with an execution time 0.039 seconds, we can see that the refactored code ran significantly faster, then before it was refactored.
 
  The efficiency was also greatly improved when getting the results for the stock analysis when ran for 2018. ![As can be seen in the pop-message for the original 2018 code](VBA_Challenge_2018_originalcode.png), the execution time to perform the analysis of the code was around 0.348 seconds. When compared to the 
-![2018 refactored code](VBA_Challenge_201.png), with an execution time of 0.047, we also see a noticeable improvement in the time it took to execute the analysis of the data. 
+![2018 refactored code](VBA_Challenge_2018.png), with an execution time of 0.047, we also see a noticeable improvement in the time it took to execute the analysis of the data. 
 
 ###Stock performance comparison between 2017 and 2018
 
