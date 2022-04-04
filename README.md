@@ -29,10 +29,10 @@ The 2018 code, also has a significant improvement in execution time, with the or
 
 ## Summary
 
-###Advantages of refactoring
+### Advantages of refactoring
 There are few advantages to refactoring that I have noticed when working on this project. The first is after going through the refactored code, it is easier to understand. The code’s overall design does seem significantly cleaner. The previous code also utilized logical operators, with some “and” statements, which the refactored code no longer utilizes. 
 
-###Disadvantages of refactoring
+### Disadvantages of refactoring
 The first disadvantage of refactoring would have to be the difficulty of it. This code was the first code I have ever refactored. Throughout the refactoring process, I continuously ran into several different errors in the code, some caused by logical operators that were no longer needed, others by simple oversight. 
 
 For someone who has little to no experience in refactoring, I believe it could prove to be quite the challenge, especially when having a code that already works.
