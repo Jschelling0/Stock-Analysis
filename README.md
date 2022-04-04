@@ -43,5 +43,4 @@ The first thought that came into my mind when beginning the challenge for this V
 
 However, once I had successfully refactored the code, and gone back to make sure I understood everything that was happening, and why logical operators were no longer necessary, I saw how much cleaner the code looked, and why it was more efficient, with less steps, and the overall appearance of the code was much cleaner.
 
-Logical operators
 
